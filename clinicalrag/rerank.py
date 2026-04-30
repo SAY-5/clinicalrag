@@ -26,7 +26,6 @@ from dataclasses import dataclass
 
 from clinicalrag.rag import Citation
 
-
 _TOKEN = re.compile(r"[A-Za-z0-9]+")
 
 
